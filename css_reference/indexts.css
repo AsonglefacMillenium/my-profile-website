@@ -1,0 +1,166 @@
+    .header {
+        background-color: white;
+        border: 2px gray;
+        box-shadow: 5px 5px 5px grey;
+        padding: 30px;
+    }
+    
+    #elements1 {
+        font-size: 20px;
+    }
+    
+    #elements1 li {
+        display: inline;
+        color: black;
+    }
+    
+    #elemaents2 {
+        text-align: right;
+        padding: 50px;
+    }
+    
+    #elements2 li {
+        display: inline;
+        color: black;
+        text-align: right;
+        font-size: 30px;
+        padding: 20px;
+    }
+    
+    #elements2 li a {
+        color: black;
+        text-decoration: none;
+    }
+    
+    .navbar {
+        margin: 30px;
+        margin-bottom: 50px;
+        background-color: paleturquoise;
+        margin-bottom: 0px;
+        box-shadow: 5px 5px 5px gray;
+        position: fixed;
+        top: 0%;
+    }
+    
+    .navbar h1 {
+        padding-top: 80px;
+        padding-bottom: 0px;
+    }
+    
+    .navbar ul {
+        float: right;
+        padding-right: 50px;
+        color: white;
+    }
+    
+    .navbar li {
+        display: inline;
+        color: red;
+        text-align: right;
+        padding: 20px;
+        font-size: 20px;
+        padding-top: 0px;
+    }
+    
+    .navbar li a {
+        text-decoration: none;
+        color: red;
+    }
+    
+    a:hover {
+        background-color: green;
+        color: red;
+    }
+    
+    .footer {
+        background-color: black;
+        color: white;
+    }
+    
+    #foots {
+        background-color: black;
+    }
+    
+    #foots ul {
+        float: left;
+        background-color: black;
+        font-size: 20px;
+        padding: 50px;
+        padding-right: 100px;
+        padding-left: 80px;
+    }
+    
+    #foots ul li {
+        list-style-type: none;
+        font-size: 20px;
+    }
+    
+    #foots ul li a {
+        color: white;
+        text-decoration: none;
+    }
+    
+    #about img {
+        float: right;
+        width: 400px;
+        height: 500px;
+        padding-top: 0px;
+    }
+    
+    #about {
+        background-color: greenyellow;
+        color: black;
+        padding: 50px;
+        font-size: 30px;
+        margin-top: 0px;
+    }
+    
+    #doings {
+        float: left;
+        margin-bottom: 50px;
+    }
+    
+    #doings img {
+        height: 300px;
+        width: 300px;
+        border-radius: 200px;
+        padding: 50px;
+        padding-top: 60px;
+    }
+    
+    #doings p,
+    h2 {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    
+    #what a {
+        float: left;
+    }
+    
+    .pictures {
+        margin: 50px;
+        margin-top: 100px;
+        padding-top: 100px;
+    }
+    
+    div.img {
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 180px;
+    }
+    
+    div.img:hover {
+        border: 1px solid #777;
+    }
+    
+    div.img img {
+        width: 100%;
+        height: auto;
+    }
+    
+    div.desc {
+        padding: 15px;
+        text-align: center;
+    }
